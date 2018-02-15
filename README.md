@@ -1,10 +1,10 @@
 # WeB
 Collection of code snippets you can use in your web projects
 ------------------------------------------------------------
-1. Registration
+1. Login Pages
 <p align="center">
-  <img width="1360" height="600" src="Registration/sample/1.png">
+  <img width="1360" height="600" src="1.png">
 </p>
 <p align="center">
-  <img width="1360" height="600" src="Registration/sample/2.png">
+  <img width="1360" height="600" src="2.png">
 </p>
